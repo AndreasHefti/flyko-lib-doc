@@ -1,4 +1,4 @@
-Introducation
+Introduction
 =============
 
 The main goal of the Firefly framework is to provide a top-level 2D game API that comes with an in-build Component-Entity-System architecture to organize 
