@@ -9,4 +9,4 @@ https://github.com/AndreasHefti/flyko-lib
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://flyko-lib-doc.readthedocs.io/en/latest/
