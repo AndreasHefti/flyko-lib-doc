@@ -1,8 +1,11 @@
-Template for the Read the Docs tutorial
+Read the Docs for FlyKoLib 
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repository contains the Read the Docs source for the FlyKoLib Kotlin based Multiplatform game development API
+
+Code repository here:
+
+https://github.com/AndreasHefti/flyko-lib
 
 Read the tutorial here:
 
