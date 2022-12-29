@@ -10,8 +10,8 @@ while business-code stays in their System(s). This leads to more flexibility whe
 Firefly also intent to be as less restrictive as possible to make it easy to extend functionality and integrate other libraries. 
 Firefly shall help you with that and not strain you with rigid conventions.
 
-What is Firefly and Flyko-Lib
------------------------------
+What is Firefly and Fly-Ko-Lib
+------------------------------
 
 TODO
 
