@@ -5,6 +5,8 @@ Welcome to Firefly (Fly-Ko-Lib) documentation!
 
 Follow this tutorial to learn how to setup a project with Firefly and learn all about its components.
 
+Or take a look at the <a href="https://github.com/AndreasHefti/flyko-lib">Firefly Github Repository</a>
+
 .. note::
 
    This project is under active development.
