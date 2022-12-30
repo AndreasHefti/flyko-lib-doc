@@ -15,6 +15,7 @@ Contents
 .. toctree::
 
    introduction
+   setup_jvm
    overall_architecture
    components_systems_controls
    rendering

@@ -66,9 +66,5 @@ as well as Android and iOS with `RoboVM <https://github.com/MobiVM/robovm>`_.
 For desktop targets like Windows, Mac and Linux you can just start with your game development and are ready to go for
 bundling and publishing your game for this platforms. Just start with the following chapter to setup a JVM based project.
 
-Setting up an empty JVM based project as a start
-------------------------------------------------------
 
-
-TODO
 
