@@ -10,6 +10,7 @@ with the Fly-Ko-Lib just right away. So lets start directly with Intellij IDE an
 In your Intellij IDE go to the :guilabel:`File` menu, :guilabel:`New` and choose :guilabel:`Project`
 
 .. figure:: /img/setup0.png
+   :width: 80%
    :align: center
 
    Firefly JVM Project Setup
@@ -20,6 +21,7 @@ This guide will use :guilabel:`Gradle Kotlin` for building the project so we rec
 The JDK version here is not that important at the moment. Just stick with your favorite JDK version.
 
 .. figure:: /img/setup01.png
+   :width: 80%
    :align: center
 
    Firefly JVM Project Setup
@@ -27,6 +29,7 @@ The JDK version here is not that important at the moment. Just stick with your f
 Click next and remove the :guilabel:`js` and :guilabel:`native` target from the target list
 
 .. figure:: /img/setup2.png
+   :width: 80%
    :align: center
 
    Firefly JVM Project Setup
@@ -34,6 +37,7 @@ Click next and remove the :guilabel:`js` and :guilabel:`native` target from the 
 Then click on :guilabel:`Finish` To create the empty project. You should get something like the following:
 
 .. figure:: /img/setup3.png
+   :width: 80%
    :align: center
 
    Firefly JVM Project Setup
