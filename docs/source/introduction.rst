@@ -43,13 +43,16 @@ game development, give it a try!
 
 
 
-What is implemented and ready to use so far
--------------------------------------------
+What is implemented
+-------------------
 ___
 
-Currently (v0.3) only the JVM targets are fully implemented. This means that you are able to package your game for all
-JVM targets that are mainly desktop (Win / Mac / Linux) as well as Android and iOS with
-`RoboVM <https://github.com/MobiVM/robovm>`_.
+Since Fly-Ko-Lib is a Kotlin Multiplatform project in its early state, the question is, what is implemented so far
+and ready to use and what needs to be tackled by yourself or will be provided in the future.
+
+Currently (v0.3) only the JVM targets low level interfaces are fully implemented.
+This means that you are able to package your game for all JVM targets that are mainly desktop (Win / Mac / Linux)
+as well as Android and iOS with `RoboVM <https://github.com/MobiVM/robovm>`_.
 
 .. note::
 
@@ -59,6 +62,9 @@ JVM targets that are mainly desktop (Win / Mac / Linux) as well as Android and i
 
     We will provide you with adapter and documentation for this as soon as possible but for now you have to try
     yourself with that.
+
+For desktop targets like Windows, Mac and Linux you can just start with your game development and are ready to go for
+bundling and publishing your game for this platforms. Just start with the following chapter to setup a JVM based project.
 
 Setting up an empty JVM based project as a start
 ------------------------------------------------------
