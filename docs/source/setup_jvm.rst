@@ -19,14 +19,14 @@ Multiplatform section (or :guilabel:`Console Application` if you want to setup a
 This guide will use :guilabel:`Gradle Kotlin` for building the project so we recommend to stick with that.
 The JDK version here is not that important at the moment. Just stick with your favorite JDK version.
 
-.. figure:: /img/setup1.png
+.. figure:: /img/setup01.png
    :align: center
 
    Firefly JVM Project Setup
 
 Click next and remove the :guilabel:`js` and :guilabel:`native` target from the target list
 
-.. figure:: /img/setup2.png
+.. figure:: /img/setup0.png
    :align: center
 
    Firefly JVM Project Setup
