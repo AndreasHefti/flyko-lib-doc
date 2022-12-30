@@ -13,15 +13,29 @@ In your Intellij IDE go to the :guilabel:`File` menu, :guilabel:`New` and choose
    :align: center
    :alt: Create new Fly-Ko-Lib project
 
-In the setup dialog select :guilabel:`Kotlin Multiplatform`. Name your project and use :guilabel:`Compose Desktop Application uses Kotlin`
+In the setup dialog select :guilabel:`Kotlin Multiplatform`. Name your project and use :guilabel:`Library` from the
+Multiplatform section (or :guilabel:`Console Application` if you want to setup a desktop only project)
 This guide will use :guilabel:`Gradle Kotlin` for building the project so we recommend to stick with that.
 The JDK version here is not that important at the moment. Just stick with your favorite JDK version.
+
 
 .. figure:: /img/setup1.png
    :align: center
    :alt: Setup Kotlin Multiplatform for JVM
 
-Click next and choose :guilabel:`Compose Desktop Module` as a template. Also select the JVM target version that you
-prefer. We recommend Java 1.
+
+Click next and remove the :guilabel:`js` and :guilabel:`native` target from the target list.
+
+
+.. figure:: /img/setup2.png
+   :align: center
+   :alt: Setup Kotlin Multiplatform for JVM
+
+Then click on :guilabel:`Finish` To create the empty project. You should get something like the following:
+
+
+.. figure:: /img/setup3.png
+   :align: center
+   :alt: Setup Kotlin Multiplatform for JVM
 
 
