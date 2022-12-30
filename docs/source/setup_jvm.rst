@@ -26,7 +26,7 @@ The JDK version here is not that important at the moment. Just stick with your f
 
 Click next and remove the :guilabel:`js` and :guilabel:`native` target from the target list
 
-.. figure:: /img/setup0.png
+.. figure:: /img/setup2.png
    :align: center
 
    Firefly JVM Project Setup
