@@ -15,7 +15,7 @@ libraries. Firefly shall help you with that and not strain you with rigid conven
 
 What is Firefly and Fly-Ko-Lib
 ------------------------------
-------------
+
 
 Firefly - Fly-Ko-Lib claims to be a top level game development library and API with a strong focus on 2D games.
 Fly-Ko-Lib is entirely written in `Kotlin <https://kotlinlang.org/>`_ language and setup as a
@@ -45,7 +45,7 @@ game development, give it a try!
 
 What is implemented
 -------------------
-------------
+
 
 Since Fly-Ko-Lib is a Kotlin Multiplatform project in its early state, the question is, what is implemented so far
 and ready to use and what needs to be tackled by yourself or will be provided in the future.
@@ -68,7 +68,7 @@ bundling and publishing your game for this platforms. Just start with the follow
 
 Setting up an empty JVM based project as a start
 ------------------------------------------------------
-------------
+
 
 TODO
 
