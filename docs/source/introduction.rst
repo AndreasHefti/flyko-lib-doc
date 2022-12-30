@@ -1,5 +1,6 @@
 Introduction
 =============
+___
 
 The main goal of the Firefly framework is to provide a top-level 2D game API that comes with an in-build
 Component-Entity-System architecture to organize all the game-objects, data and assets in a well-defined
@@ -14,6 +15,7 @@ libraries. Firefly shall help you with that and not strain you with rigid conven
 
 What is Firefly and Fly-Ko-Lib
 ------------------------------
+___
 
 Firefly - Fly-Ko-Lib claims to be a top level game development library and API with a strong focus on 2D games.
 Fly-Ko-Lib is entirely written in `Kotlin <https://kotlinlang.org/>`_ language and setup as a
@@ -43,6 +45,7 @@ game development, give it a try!
 
 What is implemented and ready to use so far
 -------------------------------------------
+___
 
 Currently (v0.3) only the JVM targets are fully implemented. This means that you are able to package your game for all
 JVM targets that are mainly desktop (Win / Mac / Linux) as well as Android and iOS with
@@ -59,6 +62,7 @@ JVM targets that are mainly desktop (Win / Mac / Linux) as well as Android and i
 
 Setting up an empty JVM based project as a start
 ------------------------------------------------------
+___
 
 TODO
 
