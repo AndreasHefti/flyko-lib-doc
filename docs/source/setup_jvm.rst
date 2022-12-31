@@ -84,7 +84,7 @@ target:
         }
     }
 
-Not trigger a rebuild with grade to get all the dependencies. You should be able to see them in the
+Trigger a rebuild with grade to get all the dependencies. You should be able to see them in the
 :guilabel:`External Libraries` section for your project tree. You should now get something like this:
 
 .. figure:: /img/setup4.png
